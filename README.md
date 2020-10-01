@@ -2,8 +2,11 @@
 ### About Me
 Software Engineer  
 ### Skills
-Languages - Dart, HTML, CSS, JavaScript,TypeScript,Rust,C++/C.
-Libraries/Frameworks: - Flutter, Node.js,React,Angular,Azure.
-Databases: - Firebase, Mongodb, PGSQL,MSSQL,MySQL,Elasticsearch,Redis.
-Tools: - CLI, Git, Github.
-OS: Linux ❤ bash love 
+- #####   Languages - Dart, HTML, CSS, JavaScript,TypeScript,Rust,C++/C.
+
+- ##### Libraries/Frameworks: - Flutter, Node.js,React,Angular,Azure.
+
+- ##### Databases: - Firebase, Mongodb, PGSQL,MSSQL,MySQL,Elasticsearch,Redis.
+
+- ##### Tools: - CLI, Git, Github.
+- ##### OS: Linux ❤ bash love 
