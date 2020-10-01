@@ -1,4 +1,4 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=idontsudo&show_icons=true&count_private=true&theme=radical&include_all_commits)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=idontsudo&show_icons=true&count_private=true&include_all_commits)
 ### About Me
 Software Engineer  
 ### Skills
