@@ -2,7 +2,7 @@
 ### About Me
 Software Engineer  
 ### Skills
-- #####   Languages - Dart, HTML, CSS, JavaScript,TypeScript,Rust,C++/C.
+- #####   Languages - Dart, HTML, CSS, JavaScript,TypeScript,Rust,C/C++.
 
 - ##### Libraries/Frameworks: - Flutter, Node.js,React,Angular,Azure.
 
