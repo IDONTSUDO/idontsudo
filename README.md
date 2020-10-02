@@ -5,6 +5,10 @@
 Full Stack Software Engineer, my specialisations Android/IOS/Front-End/Back-End/ most of all I love making server applications. But I also do not specialize badly in front-end tasks, I have a normal knowledge of CSS, Canvas, WebGl. And love ❤ RUST.in the past I wrote a little for microcontrollers, I have a passion for DIY projects on RaspeberiPI ❤.
 
 ### Skills
+
+![](https://i.pinimg.com/originals/c7/b8/11/c7b8113247fecd83bd9b5ed5bd3f34d5.png = 50x50)
+
+
 - #####   Languages - Dart, HTML, CSS, JavaScript,TypeScript,Rust,C/C++.
 
 - ##### Libraries/Frameworks: - Flutter, Node.js,React,Angular,Azure.
