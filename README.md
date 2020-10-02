@@ -5,7 +5,7 @@
 Full Stack Software Engineer, my specialisations Android/IOS/Front-End/Back-End/ most of all I love making server applications. But I also do not specialize badly in front-end tasks, I have a normal knowledge of CSS, Canvas, WebGl. And love ❤ RUST.in the past I wrote a little for microcontrollers, I have a passion for DIY projects on RaspeberiPI ❤.
 
 ### Skills
-![alt text](https://github.com/IDONTSUDO/img/blob/main/db/Elasticsearch-Logo-Color-V.png?raw=true=250x250)
+![alt text](https://github.com/IDONTSUDO/img/blob/main/db/Elasticsearch-Logo-Color-V.png?raw=true=50x50)
 
 
 - #####   Languages - Dart, HTML, CSS, JavaScript,TypeScript,Rust,C/C++.
