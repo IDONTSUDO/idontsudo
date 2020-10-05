@@ -13,6 +13,6 @@ Full Stack Software Engineer, my specialisations Android/IOS/Front-End/Back-End/
 - ##### Databases: - Firebase, Mongodb, PGSQL,MSSQL,MySQL,Elasticsearch,Redis.
 
 - ##### Tools: - CLI, Git, Github.
-- ##### OS: Linux ❤ bash love 
+- ##### OS: Linux bash love❤  
 - ##### CI/CD:Azure Pipelines/GitLab CI/CD Pipelines
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
