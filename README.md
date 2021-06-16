@@ -1,5 +1,5 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=idontsudo&show_icons=true&count_private=true&include_all_commits)
-## Hey %USERNAME% there! :wave:  I'm IDONTSUDO an  Software Engineer.
+## Hey %USERNAME% there! :wave:  I'm IDONTSUDO an  Software Enginer.
 
 ### About Me
 Full Stack Software Engineer, my specialisations Android/IOS/Front-End/Back-End/ most of all I love making server applications. But I also do not specialize badly in front-end tasks, I have a normal knowledge of CSS, Canvas, WebGl. And love ❤ RUST.in the past I wrote a little for microcontrollers, I have a passion for DIY projects on RaspeberiPI ❤.
